@@ -5,3 +5,4 @@
 | 3   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)           | [RomanToInteger.java](src%2FRomanToInteger.java)           |
 | 4   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [LongestCommonPrefix.java](src%2FLongestCommonPrefix.java) |
 | 5   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)         | [ValidParentheses.java](src%2FValidParentheses.java)       |
+| 6   | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/description/)  | [MergeTwoSortedLists.java](src%2FMergeTwoSortedLists.java) |
