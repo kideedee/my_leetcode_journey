@@ -1,8 +1,9 @@
-| STT | Problem                                                                                   | Solution                                                   |
-|-----|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                             | [Solution](src%2FTwoSum.java)                              |
-| 2   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)         | [PalindromeNumber.java](src%2FPalindromeNumber.java)       |      
-| 3   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)           | [RomanToInteger.java](src%2FRomanToInteger.java)           |
-| 4   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [LongestCommonPrefix.java](src%2FLongestCommonPrefix.java) |
-| 5   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)         | [ValidParentheses.java](src%2FValidParentheses.java)       |
-| 6   | [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/description/)  | [MergeTwoSortedLists.java](src%2FMergeTwoSortedLists.java) |
+| STT | Problem                                                                                                               | Solution                                                   |
+|-----|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                         | [Solution](src%2FTwoSum.java)                              |
+| 2   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                     | [PalindromeNumber.java](src%2FPalindromeNumber.java)       |      
+| 3   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                                       | [RomanToInteger.java](src%2FRomanToInteger.java)           |
+| 4   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)                             | [LongestCommonPrefix.java](src%2FLongestCommonPrefix.java) |
+| 5   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                     | [ValidParentheses.java](src%2FValidParentheses.java)       |
+| 6   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                           | [MergeTwoSortedLists.java](src%2FMergeTwoSortedLists.java) |
+| 7   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [RemoveDuplicatesFromSortedArray.java](src%2FRemoveDuplicatesFromSortedArray.java) |
