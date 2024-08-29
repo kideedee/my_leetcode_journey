@@ -8,3 +8,4 @@
 | 6   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                         | [MergeTwoSortedLists.java](src%2FMergeTwoSortedLists.java)                         |
 | 7   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                               | [RemoveDuplicatesFromSortedArray.java](src%2FRemoveDuplicatesFromSortedArray.java) |    
 | 8   | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [FindTheFirstOccurrenceIndex.java](src%2FFindTheFirstOccurrenceIndex.java)         |
+| 9   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                         | [SearchInsertPosition.java](src%2FSearchInsertPosition.java)                       |
